@@ -1,2 +1,2 @@
 # Checkers
-This is a web version of checkers
+Web implementation of Checkers. Fully responsive, custom designed board and pieces.
